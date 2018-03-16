@@ -1,0 +1,2 @@
+INSERT INTO users values(default,'LIM JIA JIAN','S9314005B','jiajian.lim@theoptimum.net','1993-04-21','94609345','s9314005B','Admin',NULL,NULL,'1','0','1');
+
